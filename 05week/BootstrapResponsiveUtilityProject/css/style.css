@@ -1,0 +1,69 @@
+ul {
+  display: block;
+  list-style: none
+}
+img {
+height:400px;
+width: 800px;
+
+
+}
+.grey-button {
+    background-color: #666;
+    font-weight: bold;
+    color: #fff;
+    border: 0;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 16px;
+  position: relative;
+  margin-bottom: 20px;
+
+
+}
+#links {
+  width: 100%;
+  height: 400px;
+  background-color: #5d5d5d;
+  margin: 0 auto;
+
+}
+
+.bottomlinks {
+display: flex;
+
+color: white;
+
+
+}
+.bottomlinks img {
+height: 20px;
+width: 30px;
+
+.nav{
+  margin-bottom: 5px;
+  background-color: green;
+}
+
+
+.navbar brand: 
+
+
+
+
+@media (max-width: 600px) {
+
+.hero img {
+width: 90%;
+height: 90%;
+margin: zero auto;
+
+}
+main {
+  margin-left: 10px;
+
+}
+.socialimage{
+  margin-left: 90px;
+}
+}
